@@ -1,0 +1,80 @@
+@media only screen and (max-width: 877px) {
+    .navbar a{
+        display: none;
+    }
+
+    .tit {
+        flex: 100%;
+    }
+}
+
+@media only screen and (max-width: 430px) {
+    .eu {
+        height: 530px;
+    }
+
+    .xp {
+        height: 500px;
+    }
+
+    .altura {
+        height: 450px;
+    }
+
+    .nome {
+        margin-left: 8px;
+    }
+
+    .dados {
+        margin-left: 8px;
+    }
+
+    h3 {
+        margin-left: 8px;
+    }
+
+    .info {
+        height: 600px;
+    }
+
+    .rosto {
+        height: 600px;
+    }
+
+    section {
+        height: 800px;
+    }
+} 
+
+@media only screen and (max-width: 380px) {
+    .info {
+        width: 45%;
+    }
+
+    .rosto {
+        width: 45%;
+        margin-left: 5%;
+    }
+
+    .nome {
+        margin-left: 4px;
+    }
+
+    .dados {
+        margin-left: 4px;
+    }
+
+    h3 {
+        margin-left: 4px;
+    }
+}
+
+@media only screen and (max-width: 319px) {
+    .eu {
+        height: 630px;
+    }
+
+    .xp {
+        height: 570px;
+    }
+}
